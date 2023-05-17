@@ -1,0 +1,12 @@
+﻿{
+  "Id": "Ha-11q3SiE6Jg0yin3nMaw",
+  "Reference": "tIiB_D0xBESzKNqCKnYeUQ/Ha-11q3SiE6Jg0yin3nMaw",
+  "ParentRef": "tIiB_D0xBESzKNqCKnYeUQ/aI7csTqOx0K92frJAzlBTA",
+  "Name": "New Tab - Google Chrome",
+  "Type": "Screen",
+  "Created": "2023-05-11T14:26:33.1277368Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-11T14:26:33.1277368Z"
+}

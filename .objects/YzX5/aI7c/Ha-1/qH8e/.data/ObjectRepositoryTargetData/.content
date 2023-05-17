@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yVoOx2wS2kC7HdZtwB94qQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="531, 603, 854, 75" CvTextArea="614, 629, 304, 27" CvTextArgument="Search Google or type a URL" CvType="InputBox" DesignTimeRectangle="531, 603, 854, 75" DesignTimeScaleFactor="1.5" ElementType="InputBox" FriendlyName="'Search Google'" Guid="71137c5b-c421-4864-ade6-9a945998ad9e" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArgument="Search Google or type a URL" CvType="Text" DesignTimeRectangle="614, 629, 304, 27" ElementType="Text" FriendlyName="'Search Google'" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9b7553f8c725f43061e0c8a8f9fb9d69.png" xmlns="">0hDrJRHbgZUeeeLuW9G6apA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
